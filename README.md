@@ -2,11 +2,11 @@
 <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=CACACAC0&width=435&lines=%F0%9F%91%8B+Hello%2C+world!+I'm+Tina.;%F0%9F%92%BB+I+code+for+the+web.+.+.;%F0%9F%8C%8F+%26+support+a+healthy+internet!)](https://git.io/typing-svg)
 
-[![Tina Salada Profile](https://komarev.com/ghpvc/?username=mksalada)][github]
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=mksalada)][github]
 [![GitHub Followers](https://img.shields.io/github/followers/mksalada?label=Follow&style=social)][github]
-[![Twitter Follow](https://img.shields.io/twitter/follow/tinasalada?style=social)][twitter]
-[![Tina Salada Website](https://img.shields.io/badge/portfolio-mksalada-informational)][website]
-[![Tina Salada Email](https://img.shields.io/badge/email-informational)][email]
+[![Twitter Follow](https://img.shields.io/twitter/follow/mksalada_?style=social)][twitter]
+[![Portfolio Website](https://img.shields.io/badge/portfolio-mksalada-informational)][website]
+[![Email](https://img.shields.io/badge/email-informational)][email]
 
 ### 🌱 Currently Learning
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](!#)
@@ -36,8 +36,8 @@
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](!#)
 
 <!-- definitions -->
-[website]: https://mksalada.github.io
-[twitter]: https://twitter.com/tinasalada
+[website]: https://tina.codekit.org
+[twitter]: https://twitter.com/mksalada_
 [linkedin]: https://linkedin.com/in/saladamk
 [github]: https://github.com/mksalada
-[email]: mailto:x9jrimkt7@mozmail.com
+[email]: mailto:mksalada@outlook.com
