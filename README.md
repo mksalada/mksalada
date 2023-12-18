@@ -1,4 +1,4 @@
-[![Mona Whisper](https://github.githubassets.com/images/mona-whisper.gif)](!#)
+[![Mona Whisper](https://github.githubassets.com/images/mona-whisper.gif)](https://github.githubassets.com/images/mona-whisper.gif)
 <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=CACACAC0&width=435&lines=%F0%9F%91%8B+Hello%2C+world!+I'm+Tina.;%F0%9F%92%BB+I+code+for+the+web.+.+.;%F0%9F%8C%8F+%26+support+a+healthy+internet!)](https://git.io/typing-svg)
 
@@ -13,6 +13,7 @@
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](!#)
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](!#)
 [![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](!#)
+[![Next.JS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](!#)
 
 ### 🧰 Toolbox
 [![HTML](https://img.shields.io/badge/-html5-E34F26?&style=for-the-badge&logo=html5&logoColor=white)](!#)
@@ -22,6 +23,7 @@
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](!#)
 [![Python](https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=yellow)](!#)
 [![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)](!#)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)](!#)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](!#)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white)](!#)
@@ -32,7 +34,6 @@
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](!#)
 [![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)](!#)
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](!#)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](!#)
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](!#)
 
 <!-- definitions -->
