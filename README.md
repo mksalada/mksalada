@@ -32,8 +32,8 @@
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](!#)
 
 <!-- definitions -->
-[website]: https://tina.codekit.org
+[website]: https://tinasalada.pages.dev
 [twitter]: https://twitter.com/mksalada_
 [linkedin]: https://linkedin.com/in/saladamk
 [github]: https://github.com/mksalada
-[email]: mailto:mksalada@outlook.com
+[email]: mailto:tinacodekit@gmail.com
